@@ -1,0 +1,31 @@
+{
+  "name": "file-upload-multer",
+  "version": "1.0.0",
+  "description": "File Upload Feature using multer package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitish-mca/express-file-upload.git"
+  },
+  "keywords": [
+    "File",
+    "Upload",
+    "Multer",
+    "File",
+    "Upload",
+    "S3"
+  ],
+  "author": "Nitish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitish-mca/express-file-upload/issues"
+  },
+  "homepage": "https://github.com/nitish-mca/express-file-upload#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
